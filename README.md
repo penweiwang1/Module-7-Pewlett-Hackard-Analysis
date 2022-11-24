@@ -10,6 +10,7 @@ The purpose of the assignment is to use SQL to parse and organize data in order 
 - The greatest number of employees that will be retiring are Senior Engineers at 25,916 followed by 24,926 Senior Staff members.
 
 <img width="585" alt="Screen Shot 2022-11-23 at 7 42 04 PM" src="https://user-images.githubusercontent.com/115126898/203695359-18b292bd-2615-46eb-9ff9-845dcd930a2f.png">
+<img width="310" alt="Screen Shot 2022-11-23 at 11 52 22 PM" src="https://user-images.githubusercontent.com/115126898/203697225-067ebac7-9c88-46d3-9421-1be4b947aa26.png">
 
 - There are no qualified mentors that are currently managers.
 - The greatest number of qualified mentors are staff members with 576 people, followed by Senior Engineers with 528 people.
